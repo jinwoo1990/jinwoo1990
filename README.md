@@ -17,46 +17,52 @@ Currently working as a data scientist/consultant for 4+ years. Main responsibili
 
 ### :fountain_pen: Main
 
+#### ml-streamlit-app
+> **Keywords**: xgboost | lightgbm | scikit-learn | shap | stereamlit | flask | docker | mongoDB | AWS S3 *[View Source](https://github.com/jinwoo1990/ml-streamlit-app)*
+
+Sample ML application codes with custom model pipelines and model management functions. MongoDB is used to save metadata of trained models and S3 is used to save model binaries.
+
 #### ccpp-demo
 > **Keywords**: xgboost | keras | scikit-learn | shap | stereamlit | flask | docker *[View Source](https://github.com/jinwoo1990/ccpp-demo)*
 
-CCPP electricity output prediction streamlit demo web application
-
-#### ml-streamlit-app
-> **Keywords**: xgboost | keras | scikit-learn | shap | stereamlit | flask | docker *[View Source](https://github.com/jinwoo1990/ccpp-demo)*
-
-CCPP electricity output prediction streamlit demo web application
+Electricity output prediction demo web application based on CCPP dataset. 
+(MLOPs components will be added using MLflow, seldon-core, graphana in the future releases. In contrast to the ml-streamlit-app repository, this repository will implement MLOps function applying pre-built open-source package.)
 
 #### airbnb-clone
-> **Keywords**: xgboost | keras | scikit-learn | shap | stereamlit | flask | docker *[View Source](https://github.com/jinwoo1990/ccpp-demo)*
+> **Keywords**: django | tailwind | AWS EC2 | AWS RDS | AWS S3 | AWS Elastic Beanstalk *[View Source](https://github.com/jinwoo1990/airbnb-clone)*
 
-CCPP electricity output prediction streamlit demo web application
+Clone project for the Airbnb website using Django web framework. Most codes oriented from Nomad Coders Airbnb clone coding lectures.
+(In the future, I will add machine learning features in this application. This code was developed to raise basic understanding of python web applications.)
 
 ---
 
 ### :memo: For Blog Contents
 
 #### simple-streamlit-ml-app
-> **Keywords**: xgboost | keras | scikit-learn | shap | stereamlit | flask | docker *[View Source](https://github.com/jinwoo1990/ccpp-demo)*
+> **Keywords**: xgboost | lightgbm | scikit-learn | shap | stereamlit | flask | docker *[View Source](https://github.com/jinwoo1990/simple-streamlit-ml-app)*
 
-CCPP electricity output prediction streamlit demo web application
+Simple versions of ml-streamlit-app repository. 
 
 #### git-flow-tutorial
-> **Keywords**: xgboost | keras | scikit-learn | shap | stereamlit | flask | docker *[View Source](https://github.com/jinwoo1990/ccpp-demo)*
+> **Keywords**: Git | Jira *[View Source](https://github.com/jinwoo1990/git-flow-tutorial)*
 
-CCPP electricity output prediction streamlit demo web application
+Code for the git-flow-tutorial blog content.
+
+*[View Blog Content](https://jinwoo1990.github.io/git/git-flow-tutorial/)*
 
 #### git-test
-> **Keywords**: xgboost | keras | scikit-learn | shap | stereamlit | flask | docker *[View Source](https://github.com/jinwoo1990/ccpp-demo)*
+> **Keywords**: Git *[View Source](https://github.com/jinwoo1990/git-test)*
 
-CCPP electricity output prediction streamlit demo web application
+Code for the git-flow-tutorial blog content.
+
+*[View Blog Content](https://jinwoo1990.github.io/git/git-flow-tutorial/)*
 
 ---
 
 ### :paintbrush: Others
 
 #### kaggle-practice
-> **Keywords**: xgboost | keras | scikit-learn | shap | stereamlit | flask | docker *[View Source](https://github.com/jinwoo1990/ccpp-demo)*
+> **Keywords**: kaggle | xgboost | lightgbm | catboost | keras | scikit-learn | shap *[View Source](https://github.com/jinwoo1990/kaggle-practice)*
 
-CCPP electricity output prediction streamlit demo web application
+Practice code of kaggle competitions.
 
