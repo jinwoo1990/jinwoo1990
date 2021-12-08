@@ -46,16 +46,12 @@ Simple versions of ml-streamlit-app repository.
 #### git-flow-tutorial
 > **Keywords**: Git | Jira *[View Source](https://github.com/jinwoo1990/git-flow-tutorial)*
 
-Code for the git-flow-tutorial blog content.
-
-*[View Blog Content](https://jinwoo1990.github.io/git/git-flow-tutorial/)*
+Code for the git-flow-tutorial blog content. *[View Blog Content](https://jinwoo1990.github.io/git/git-flow-tutorial/)*
 
 #### git-test
 > **Keywords**: Git *[View Source](https://github.com/jinwoo1990/git-test)*
 
-Code for the git-flow-tutorial blog content.
-
-*[View Blog Content](https://jinwoo1990.github.io/git/git-flow-tutorial/)*
+Code for the git-flow-tutorial blog content. *[View Blog Content](https://jinwoo1990.github.io/git/git-flow-tutorial/)*
 
 ---
 
