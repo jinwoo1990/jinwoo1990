@@ -14,15 +14,49 @@ Currently working as a data scientist/consultant for 4+ years. Main responsibili
 
 ## :books: Repositories
 
+
 ### :fountain_pen: Main
 
 #### ccpp-demo
-> **Keywords**: docker, stereamlit, flask, xgboost, keras, scikit-learn | Folium. *[View Source](https://github.com/jinwoo1990/ccpp-demo)*
+> **Keywords**: xgboost | keras | scikit-learn | shap | stereamlit | flask | docker *[View Source](https://github.com/jinwoo1990/ccpp-demo)*
 
+CCPP electricity output prediction streamlit demo web application
 
-### :memo: For Blog
+#### ml-streamlit-app
+> **Keywords**: xgboost | keras | scikit-learn | shap | stereamlit | flask | docker *[View Source](https://github.com/jinwoo1990/ccpp-demo)*
 
+CCPP electricity output prediction streamlit demo web application
 
+#### airbnb-clone
+> **Keywords**: xgboost | keras | scikit-learn | shap | stereamlit | flask | docker *[View Source](https://github.com/jinwoo1990/ccpp-demo)*
+
+CCPP electricity output prediction streamlit demo web application
+
+---
+
+### :memo: For Blog Contents
+
+#### simple-streamlit-ml-app
+> **Keywords**: xgboost | keras | scikit-learn | shap | stereamlit | flask | docker *[View Source](https://github.com/jinwoo1990/ccpp-demo)*
+
+CCPP electricity output prediction streamlit demo web application
+
+#### git-flow-tutorial
+> **Keywords**: xgboost | keras | scikit-learn | shap | stereamlit | flask | docker *[View Source](https://github.com/jinwoo1990/ccpp-demo)*
+
+CCPP electricity output prediction streamlit demo web application
+
+#### git-test
+> **Keywords**: xgboost | keras | scikit-learn | shap | stereamlit | flask | docker *[View Source](https://github.com/jinwoo1990/ccpp-demo)*
+
+CCPP electricity output prediction streamlit demo web application
+
+---
 
 ### :paintbrush: Others
+
+#### kaggle-practice
+> **Keywords**: xgboost | keras | scikit-learn | shap | stereamlit | flask | docker *[View Source](https://github.com/jinwoo1990/ccpp-demo)*
+
+CCPP electricity output prediction streamlit demo web application
 
