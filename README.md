@@ -22,7 +22,7 @@ Currently working as a data scientist/consultant for 4+ years. Main responsibili
 
 Sample ML application codes with custom model pipelines and model management functions. MongoDB is used to save metadata of trained models and S3 is used to save model binaries.
 
-#### ccpp-demo
+#### ccpp-demo *[Temporary Service Demo Address](http://13.209.234.231:8501/)*
 > **Keywords**: xgboost | keras | scikit-learn | shap | stereamlit | flask | docker *[View Source](https://github.com/jinwoo1990/ccpp-demo)*
 
 Electricity output prediction demo web application based on CCPP dataset. 
