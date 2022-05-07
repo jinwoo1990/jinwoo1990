@@ -1,5 +1,8 @@
 # Hello, I'm Jin :bagel:
 
+<a href="https://www.linkedin.com/in/jinwoo1990/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"/></a>
+<a href="https://jinwoo1990.github.io/"><img src="https://img.shields.io/badge/Blog-252a34?style=flat&logo=Jekyll&?"/></a>
+
 ## :mountain: About Me
 
 IBM에서 5년째 데이터 사이언티스트/컨설턴트로 근무하고 있습니다. 유통, 의료, 제조, 에너지 등 다양한 산업 분야에서 데이터 분석과 머신러닝/최적화 모델 개발, 도커와 파이썬 웹프레임워크를 활용한 어플리케이션 개발, AI 전략 컨설팅을 수행하고 있습니다. 현재 실제 비즈니스에서 작동하는 AI 어플리케이션의 End-to-end 개발/기획자를 목표로 하고 있습니다.
