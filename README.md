@@ -17,7 +17,7 @@ IBM에서 5년째 데이터 사이언티스트/컨설턴트로 근무하고 있�
 
 ### :fountain_pen: Main
 
-#### mlops-demo
+#### mlops-demo :pushpin:
 > **Keywords**: Tensorflow | TFX | Kubeflow | TFServing | GKE | BigQuery | CloudSQL | Streamlit | Github Action *[View Source](https://github.com/jinwoo1990/mlops-demo)*
 
 MLOps Demo repository는 분석 주제별 production 레벨의 머신러닝 시스템 코드를 포함하고 있습니다. Google MLOps Level 2 기준의 머신러닝 시스템 구현을 목표로 합니다. 구글 클라우드 기반으로 TFX와 Kubeflow를 이용해 개발을 진행하고 있습니다. 현재 기준으로 performance monitoring 부분을 제외하고 간단한 코드들로 Level 2 기준의 시스템을 구현했습니다. 프로젝트는 Zenhub와 Git Flow 브랜치 전략을 사용해 진행했습니다. 일부 모듈에 대해서는 추가적인 고도화 및 테스트가 필요합니다.
@@ -44,6 +44,8 @@ CCPP 데이터를 활용해 만든 전기 발전량 예측 데모 웹 어플리�
 
 ### :book: For Blog Contents
 
+머신러닝/딥러닝부터 데이터 분석을 활용한 시스템 구축에 필요한 백엔드/프론트엔드까지 데이터 분석을 하며 경험한 개발 주제에 대해 다룹니다. 아래에 나온 내용 외에도 리눅스, 쉘, 파이썬 등 프로젝트를 하며 정리했던 다양한 주제들을 포함하고 있습니다. *[View Blog Contents](https://jinwoo1990.github.io/)*
+
 #### mlops-with-tensorflow
 
 > **Keywords**: TFDV *[View Source](https://github.com/jinwoo1990/mlops-with-tensorflow)*
@@ -52,7 +54,7 @@ Production ML 시스템을 위해 필요한 여러가지 기술들에 대한 샘
 
 :memo: *[TFDV skew/drift comparator metrics 알아보기 - L-Infinity Distance & Jensen-Shannon Divergence - Dev Blog by Jin](https://jinwoo1990.github.io/)*
 
-관련 이슈: https://github.com/tensorflow/data-validation/issues/207
+관련 이슈: :octocat: https://github.com/tensorflow/data-validation/issues/207
 
 (정리한 내용을 바탕으로 TFDV github issue에 답한 내용을 블로그에 옮기려 합니다.)
 
@@ -68,7 +70,7 @@ Production ML 시스템을 위해 필요한 여러가지 기술들에 대한 샘
 ### :paintbrush: Others
 
 #### kaggle-practice
-> **Keywords**: Kaggle | XGBoost | LightGBM | CatBoost | Keras | scikit-learn | shap *[View Source](https://github.com/jinwoo1990/kaggle-practice)*
+> **Keywords**: Kaggle | XGBoost | LightGBM | CatBoost | Keras | scikit-learn | Shap *[View Source](https://github.com/jinwoo1990/kaggle-practice)*
 
 Kaggle competiton 관련 코드들을 포함하고 있습니다.
 
