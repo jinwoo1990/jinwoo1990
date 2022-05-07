@@ -13,7 +13,7 @@ IBM에서 5년째 데이터 사이언티스트/컨설턴트로 근무하고 있�
 - ML/DL modeling
 - Optimization
 - Working efficiency
-- Blog writing (*[Link](https://jinwoo1990.github.io/)*)
+- Blog writing
 
 ## :books: Repositories
 
