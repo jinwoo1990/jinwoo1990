@@ -6,7 +6,7 @@ IBM에서 5년째 데이터 사이언티스트/컨설턴트로 근무하고 있�
 
 ## :dart: Interests
 
-- Full stack development of AI application
+- Full stack development of AI applications
 - ML/DL modeling
 - Optimization
 - Working efficiency
@@ -38,7 +38,7 @@ MLOps Demo repository는 분석 주제별 production 레벨의 머신러닝 시�
 
 CCPP 데이터를 활용해 만든 전기 발전량 예측 데모 웹 어플리케이션 프로젝트입니다.
 
-(MLflow, seldon-core, graphana 등의 오픈소스 기술들을 바탕으로 MLOps 기능을 향후 releases에 추가할 예정이었습니다. 현재는 TFX와 Kubeflow 기반의 아키텍처를 고려하고 있어 보류한 상태입니다.)
+(MLflow, seldon-core, graphana 등의 오픈소스 기술들을 바탕으로 MLOps 기능을 향후 release에 추가할 예정이었습니다. 현재는 TFX와 Kubeflow 기반의 아키텍처를 고려하고 있어 보류한 상태입니다.)
 
 ---
 
