@@ -52,7 +52,7 @@ CCPP 데이터를 활용해 만든 전기 발전량 예측 데모 웹 어플리�
 
 Production ML 시스템을 위해 필요한 여러가지 기술들에 대한 샘플 코드들을 포함하고 있습니다. 개인적으로 관련 기술들을 사용해보며 궁금하거나 중요해보이는 내용들을 다루고 있습니다.
 
-:memo: *[TFDV skew/drift comparator metrics 알아보기 - L-Infinity Distance & Jensen-Shannon Divergence - Dev Blog by Jin](https://jinwoo1990.github.io/)*
+:memo: *[TFDV skew/drift comparator metrics 알아보기 - L-Infinity Distance & Jensen-Shannon Divergence - Dev Blog by Jin](https://jinwoo1990.github.io/mlops/tfdv-skew-metrics)*
 
 관련 이슈: :octocat: https://github.com/tensorflow/data-validation/issues/207
 
