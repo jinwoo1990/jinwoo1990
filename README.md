@@ -1,6 +1,5 @@
 # Hello, I'm Jin :bagel:
 
-<a href="https://www.linkedin.com/in/jinwoo1990/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"/></a>
 <a href="https://jinwoo1990.github.io/"><img src="https://img.shields.io/badge/Blog-252a34?style=flat&logo=Jekyll&?"/></a>
 
 ## :mountain: About Me
